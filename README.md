@@ -18,6 +18,6 @@ sudo openFPGALoader -b ulx3s_dfu bit/ulx4m-ls_12f_blinktest.bit
 
 ![EMI2](/img/EMI2.png)
 
-![Uncerainty](EMI-uncerainty.png)
+![Uncerainty](/img/EMI-uncerainty.png)
 
 ![Results](/img/EMI_results.png)
