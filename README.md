@@ -22,3 +22,10 @@ Bitstream will generate 50MHz, 100MHz, 200MHz, 300MHz and push them on LEDs 0-3
 
 It will also have counter from those frequencies on LEDs 4-7
 
+## Testing results
+
+![EMI1](/img/EMI1.png)
+
+![EMI2](/img/EMI2.png)
+
+![Results](/img/EMI_results.png)
